@@ -13,4 +13,3 @@ hello at ::guigu! hello.git!
 hello at ::guigu! hello.git!
 hello at ::guigu! hello.git!
 hello at ::guigu! hello.gitmaster modify!
-hello at ::guigu! hello.git!
